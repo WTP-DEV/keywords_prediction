@@ -1,0 +1,11 @@
+[theme]
+
+primaryColor = "#2fa3a0" 
+backgroundColor = "#ffffff" 
+secondaryBackgroundColor = "#f0f2f6" 
+textColor = "#000000" 
+font = "sans serif"
+
+[logger]
+
+level = "info"

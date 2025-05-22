@@ -1,0 +1,17 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore logs
+*.log
+
+# Ignore node modules (for JavaScript projects)
+node_modules/
+
+# Ignore system files
+.DS_Store
+
+env/
